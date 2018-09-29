@@ -28,3 +28,7 @@ https://github.com/FOSSCODY-1/T.L.S.Fonseka/blob/master/Capture4.PNG
 When the car park is full, vehicle next should wait. They put into a new queue.
 
 https://github.com/FOSSCODY-1/T.L.S.Fonseka/blob/master/Capture5.PNG
+
+When a car leaves, system automatically moves the waiting list and fillup the empty space.
+
+https://github.com/FOSSCODY-1/T.L.S.Fonseka/blob/master/Capture6.PNG
