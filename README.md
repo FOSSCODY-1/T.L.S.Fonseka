@@ -10,5 +10,5 @@ If there’s no space, car should wait for a space to clear.
 When an empty spot arise, waiting list automatically moves forward and fills the spot.
 
 Arrival of a vehicle
-https://github.com/FOSSCODY-1/T.L.S.Fonseka/blob/master/Capture.PNG
+    https://github.com/FOSSCODY-1/T.L.S.Fonseka/blob/master/Capture.PNG
     
