@@ -20,3 +20,11 @@ https://github.com/FOSSCODY-1/T.L.S.Fonseka/blob/master/Capture2.PNG
 leaving of the westmost vehicle(the one on the front). System always shows how many positions a car moved at a departure.
 
 https://github.com/FOSSCODY-1/T.L.S.Fonseka/blob/master/Capture3.PNG
+
+When a car at the middle leaves first, the cars infront should move out and put in a stack. After the departure the cars pop from the stack and put back in the previous order.
+
+https://github.com/FOSSCODY-1/T.L.S.Fonseka/blob/master/Capture4.PNG
+
+When the car park is full, vehicle next should wait. They put into a new queue.
+
+https://github.com/FOSSCODY-1/T.L.S.Fonseka/blob/master/Capture5.PNG
